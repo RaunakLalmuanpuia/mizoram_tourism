@@ -1,0 +1,23 @@
+<form action="/amenities" method="POST">
+    @csrf
+    
+    <div class="form-group">
+        <label for="category">Category*</label>
+     <select name="category" id="category" required>
+            @foreach($categories as $category)
+                <option value={{$category->id}}>{{$category->name}}</option>
+            @endforeach
+        </select>
+    <br>
+        <label for="name">Name*</label>
+        <input type="text" class="form-control" id="name" name="name" required>
+    
+        <label for="logo">Logo*</label>
+        <input type="text" class="form-control" id="logo" name="logo" required>
+     
+        <input type="submit" value="Submit">
+    
+      </div>
+    </form>
+
+    https://www.twilio.com/blog/repository-pattern-in-laravel-application

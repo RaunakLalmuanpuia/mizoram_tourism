@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="44" viewBox="0 0 42 44">
+    <defs>
+        <clipPath id="fcbiqd1iga">
+            <path data-name="Rectangle 333" transform="translate(949 464)" style="stroke:#707070;fill:#f55557" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 42" transform="translate(-938 -452)">
+        <circle data-name="Ellipse 62" cx="21" cy="21" r="21" transform="translate(938 452)" style="fill:#d45759;opacity:.1"/>
+        <g data-name="Mask Group 11" transform="translate(-3)" style="clip-path:url(#fcbiqd1iga)">
+            <path data-name="Path 125" d="M29.689 31.289H4.622V6.4h1.422v23.467h23.645z" style="fill:#f55557" transform="translate(946.92 461.965)"/>
+            <path data-name="Path 126" d="m7.484 7.093-2.24-2.257-2.168 2.151-1-1 3.168-3.16L8.5 6.08z" style="fill:#f55557" transform="translate(946.92 461.965)"/>
+            <path data-name="Path 127" d="m30.1 33.582-.942-1.049L31.52 30.4l-2.044-2.276 1.067-.942 2.987 3.324z" style="fill:#f55557" transform="translate(946.92 461.965)"/>
+            <path data-name="Path 128" d="M34.08 27.36h-1.422V3.911H8.889V2.489H34.08z" style="fill:#f55557" transform="translate(946.92 461.965)"/>
+            <path data-name="Rectangle 338" transform="rotate(-43.53 1085.51 -958.941)" style="fill:#f55557" d="M0 0h28.372v1.422H0z"/>
+            <path data-name="Rectangle 339" transform="rotate(-43.58 1072.501 -957.764)" style="fill:#f55557" d="M0 0h15.218v1.422H0z"/>
+            <path data-name="Rectangle 340" transform="rotate(-43.58 1095.634 -967.866)" style="fill:#f55557" d="M0 0h15.217v1.422H0z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+    <defs>
+        <clipPath id="7a8it5943a">
+            <path data-name="Rectangle 327" transform="translate(1122 1402)" style="stroke:#707070;fill:#40cc6f" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 40" transform="translate(-334 -452)">
+        <circle data-name="Ellipse 60" cx="21" cy="21" r="21" transform="translate(334 452)" style="fill:#ebfff1"/>
+        <g data-name="Mask Group 7" transform="translate(-782 -940)" style="clip-path:url(#7a8it5943a)">
+            <g data-name="area 2">
+                <path data-name="Path 113" d="m1.182 35.679-1.09-.673c.289-.481 6.381-11.591 11.976-21.836a1.573 1.573 0 0 1 2.741-.032l12.313 21.483-1.106.641-12.329-21.483a.288.288 0 0 0-.257-.144.278.278 0 0 0-.257.16C9.7 20.176 1.551 35.07 1.182 35.679z" transform="translate(1121.908 1398.305)" style="fill:#40cc6f"/>
+                <path data-name="Path 114" d="M38.868 12.692v2.581L30.884 1.342a.288.288 0 0 0-.257-.144.278.278 0 0 0-.257.16C28.768 4.276 26.2 9.005 23.83 13.3c-.24.449-.481.882-.721 1.315l-.754-1.3c.24-.433.481-.866.721-1.315 1.731-3.142 3.8-6.926 6.156-11.255A1.523 1.523 0 0 1 30.6-.069a1.568 1.568 0 0 1 1.379.786z" transform="translate(1115.132 1402.085)" style="fill:#40cc6f"/>
+            </g>
+        </g>
+    </g>
+</svg>
